@@ -1,3 +1,2 @@
-# applefi87.github.io
 Home Page
-[開啟作業，請直接點選此連結=>](./我的第一個網頁.html)
+[**點此開檔案**](https://rawcdn.githack.com/wdaweb/html--wo-de-di-yi-ge-wang-ye-applefi87/master/index.html)
