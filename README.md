@@ -1,5 +1,7 @@
 Home Page
 
 
-Visit [Daring Fireball][] for more information.
-[Daring Fireball]: http://daringfireball.net/
+
+
+[Google][]
+[Google]: http://google.com/
